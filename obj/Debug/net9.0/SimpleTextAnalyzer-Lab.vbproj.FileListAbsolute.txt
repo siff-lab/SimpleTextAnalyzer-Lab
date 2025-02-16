@@ -1,0 +1,14 @@
+C:\Users\Sifana Candra\Documents\For_Coding\SimpleTextAnalyzer-Lab\bin\Debug\net9.0\SimpleTextAnalyzer-Lab.exe
+C:\Users\Sifana Candra\Documents\For_Coding\SimpleTextAnalyzer-Lab\bin\Debug\net9.0\SimpleTextAnalyzer-Lab.deps.json
+C:\Users\Sifana Candra\Documents\For_Coding\SimpleTextAnalyzer-Lab\bin\Debug\net9.0\SimpleTextAnalyzer-Lab.runtimeconfig.json
+C:\Users\Sifana Candra\Documents\For_Coding\SimpleTextAnalyzer-Lab\bin\Debug\net9.0\SimpleTextAnalyzer-Lab.dll
+C:\Users\Sifana Candra\Documents\For_Coding\SimpleTextAnalyzer-Lab\bin\Debug\net9.0\SimpleTextAnalyzer-Lab.pdb
+C:\Users\Sifana Candra\Documents\For_Coding\SimpleTextAnalyzer-Lab\obj\Debug\net9.0\SimpleTextAnalyzer-Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sifana Candra\Documents\For_Coding\SimpleTextAnalyzer-Lab\obj\Debug\net9.0\SimpleTextAnalyzer-Lab.AssemblyInfoInputs.cache
+C:\Users\Sifana Candra\Documents\For_Coding\SimpleTextAnalyzer-Lab\obj\Debug\net9.0\SimpleTextAnalyzer-Lab.AssemblyInfo.vb
+C:\Users\Sifana Candra\Documents\For_Coding\SimpleTextAnalyzer-Lab\obj\Debug\net9.0\SimpleTextAnalyzer-Lab.vbproj.CoreCompileInputs.cache
+C:\Users\Sifana Candra\Documents\For_Coding\SimpleTextAnalyzer-Lab\obj\Debug\net9.0\SimpleTextAnalyzer-Lab.dll
+C:\Users\Sifana Candra\Documents\For_Coding\SimpleTextAnalyzer-Lab\obj\Debug\net9.0\refint\SimpleTextAnalyzer-Lab.dll
+C:\Users\Sifana Candra\Documents\For_Coding\SimpleTextAnalyzer-Lab\obj\Debug\net9.0\SimpleTextAnalyzer-Lab.pdb
+C:\Users\Sifana Candra\Documents\For_Coding\SimpleTextAnalyzer-Lab\obj\Debug\net9.0\SimpleTextAnalyzer-Lab.genruntimeconfig.cache
+C:\Users\Sifana Candra\Documents\For_Coding\SimpleTextAnalyzer-Lab\obj\Debug\net9.0\ref\SimpleTextAnalyzer-Lab.dll
